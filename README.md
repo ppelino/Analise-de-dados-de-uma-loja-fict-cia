@@ -20,7 +20,7 @@ import matplotlib.pyplot as plt
 b. Carregue os dados:
 
 # Suponha que o arquivo CSV seja 'dados_vendas.csv'
-df = pd.read_csv('dados_vendas.csv')
+df = pd.read_excel('vendas.xlsx')
 
 c. Explore os dados:
 
