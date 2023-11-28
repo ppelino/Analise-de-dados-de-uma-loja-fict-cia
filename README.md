@@ -3,7 +3,7 @@
 Vamos criar um projeto de análise de vendas usando Pandas, uma biblioteca poderosa para manipulação e análise de dados, e Matplotlib para visualizações. Este projeto pode ajudar a demonstrar suas habilidades em análise de dados e programação Python.
 
 Passo a Passo:
-1. Preparação do Ambiente:
+1.Preparação do Ambiente:
 Certifique-se de ter Python instalado. Recomendo utilizar ambientes virtuais para o projeto.
 Instale as bibliotecas necessárias:
 
