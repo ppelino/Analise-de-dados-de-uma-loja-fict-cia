@@ -1,4 +1,4 @@
-# Analise_de_dados_loja_fictcia
+# Analise_de_dados_loja_fictícia
 
 Vamos criar um projeto de análise de vendas usando Pandas, uma biblioteca poderosa para manipulação e análise de dados, e Matplotlib para visualizações. Este projeto pode ajudar a demonstrar suas habilidades em análise de dados e programação Python.
 
